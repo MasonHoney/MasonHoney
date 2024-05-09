@@ -1,6 +1,7 @@
 🧙🏻‍♂️Mason's GitHub Portfolio🧙🏻‍♂️
 
 Hello!🖐🏻 My name is Mason and welcome to my portfolio! Each project is accompanied by a brief description and instructions on how to use it.
+
 Projects
 
 [honeycaverns.com]🍯🐝
