@@ -24,6 +24,9 @@ body{
     border: solid 3px navy;
     float: left;
 }
+.thanks {
+    text-align: center;
+}
 
 .project-card-container {
     border: solid 2px black;
