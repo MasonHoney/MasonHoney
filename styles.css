@@ -78,10 +78,20 @@ h2 {
     display: flex;
 }
 button {
-    padding: 30px 5px;
+    padding: 30px 10px;
     margin: 0 auto 20px;
     font-family: Ubuntu, Arial, Helvetica, sans-serif;
     font-size: 1.8rem;
+    border-radius: 10px;
+    
+}
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transform: translateY(4px);
+}
+button:active {
+    background-color: navy;
+    color: white;
     
 }
 
