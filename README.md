@@ -4,7 +4,7 @@ Hello!🖐🏻 My name is Mason and welcome to my portfolio! Each project is acc
 
 Projects
 
-🍯🐝[honeycaverns.com]🍯🐝
+🍯🐝honeycaverns.com🍯🐝
 
 Description:
 
@@ -19,7 +19,7 @@ How to Use:
 It's a simple website. You've got this. I believe in you!
 
 
-🚜⛰️[TillmanHoney]🚜⛰️
+🚜⛰️TillmanHoney🚜⛰️
 
 Description:
 
