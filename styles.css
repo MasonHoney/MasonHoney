@@ -67,6 +67,7 @@ h2 {
 }
 
 .thanks {
+    clear: both;
     text-align: center;
     font-size: 1.5rem;
     text-decoration: underline;
