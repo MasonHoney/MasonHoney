@@ -83,6 +83,7 @@ button {
     font-family: Ubuntu, Arial, Helvetica, sans-serif;
     font-size: 1.8rem;
     border-radius: 10px;
+    background-color: ghostwhite;
     
 }
 button:hover {
