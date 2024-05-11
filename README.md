@@ -1,6 +1,6 @@
 🧙🏻‍♂️Mason's GitHub Portfolio🧙🏻‍♂️
 
-Hello!🖐🏻 My name is Mason and welcome to my portfolio! Each project is accompanied by a brief description and instructions on how to use it.
+Hello!🖐🏻 My name is Mason and welcome to my portfolio! Each project is accompanied by a brief description and instructions on how to use it. The Main portfolio page is still under construction, but I'm making good progress.
 
 Projects
 
