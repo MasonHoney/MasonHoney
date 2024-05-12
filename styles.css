@@ -19,6 +19,7 @@ body{
     border: solid;
     margin: 0 auto;
     background-color: gainsboro;
+    
 }
 
 a{
@@ -123,4 +124,18 @@ button:active {
     margin: 0 5px;
 }
 
+footer {
+    
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    bottom: 0;
+    left: 0;
+    
+}
+footer > a {
+    text-align: left;
+}
 
