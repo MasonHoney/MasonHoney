@@ -32,7 +32,7 @@ HTML/CSS and JavaScript
 How to Use:
 
 Typical website usage.
-
+<hr>
 Happy Mom Day
 
 Description:
@@ -46,7 +46,7 @@ HTML/CSS
 How to Use:
 
 Typical website usage.
-
+<hr>
 
 📖Contact📖
 
