@@ -1,55 +1,50 @@
-🧙🏻‍♂️Mason's GitHub Portfolio🧙🏻‍♂️
+# 👋 Hi, I'm Mason
 
-Hello!🖐🏻 My name is Mason and welcome to my portfolio! Each project is accompanied by a brief description and instructions on how to use it. The Main portfolio page is still under construction, but I'm making good progress.
+**FAA A&P Certified Mechanic → Linux Admin & Cybersecurity Student**
 
-Projects
+I used to maintain aircraft; now I maintain infrastructure. I bring a safety-critical mindset, precision engineering, and a deep respect for checklists to the world of Linux administration and cybersecurity.
 
-🍯🐝honeycaverns.com🍯🐝
+---
 
-Description:
+### 🔧 About Me
 
-A simple website for my family business. There is a landing page and a gallery now, but I have plans for a blog, recipes, resources, and even an Ecommerce page.
+I'm a former Airframe & Powerplant mechanic who traded the hangar for the server room. My background in aviation maintenance taught me that when things go wrong, it matters—and that’s why I’m drawn to cybersecurity. I don’t just "fix" systems; I harden them.
 
-Technologies Used:
+Currently studying **Linux Administration** and **Cybersecurity**, I’m building a career out of understanding how things work from the ground up.
 
-HTML/CSS and JavaScript
+### 🛠️ Tech Stack & Tools
 
-How to Use:
+- **OS:** Linux (Ubuntu, Debian, Kali) Windows
+- **Scripting:** Bash, Python, JavaScript, C
+- **Domains:** Cybersecurity, Network Administration, System Hardening,
+- **Hardware & Embedded:** Raspberry Pi, embedded systems, PC/laptop hardware maintenance, and diagnostics
+  
+### 🚀 Projects
 
-It's a simple website. You've got this. I believe in you!
+- **Homelab:** Self-hosting services (Nextcloud, Pi-hole, Docker containers) for personal and family use.
+- **Robotics:** Building and programming autonomous robots using Linux-based controllers.
+- **3D Printing:** Designing and printing custom parts for repairs, robotics, and workshop tools.
+- **Security:** Practicing penetration testing and network monitoring in isolated lab environments.
 
-<hr>
-🚜⛰️TillmanHoney🚜⛰️
+### 🌿 Outside the Code
 
-Description:
+When I’m not troubleshooting servers or studying for certs, you can find me:
 
-A website for my father's business. It has a landing page with a scrolling photo carousel and links to different pages with information about the business, its history and offerings. It looks ok on desktop, but I need to optimize it for mobile. 
+- 🐝 **Beekeeping:** Managing hives and harvesting honey.
+- 🌱 **Gardening:** Growing vegetables, herbs, and flowers.
+- 🕹️ **Retro Gaming:** Restoring old consoles and PCs (budget permitting!).
 
-Technologies Used:
+---
 
-HTML/CSS and JavaScript
+### 📫 Connect With Me
 
-How to Use:
+- 📧 Email: jamesmasonhoney@protonmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jamesmasonhoney
+- 🐦 Twitter/X: https://x.com/Typing_Tech
 
-Typical website usage.
-<hr>
-Happy Mom Day
+---
 
-Description:
+*Verify the key, then trust the sig.*
 
-A simple Mother's day card for my mom.
-
-Technologies Used:
-
-HTML/CSS
-
-How to Use:
-
-Typical website usage.
-<hr>
-
-📖Contact📖
-
-If you have any questions or feedback about my projects, feel free to reach out to me:
-
-    Email: jamesmasonhoney@protonmail.com
+**PGP Fingerprint:**
+`049D DAC9 83BF 32CE 9217 7C66 128A A93D FF70 349E`
